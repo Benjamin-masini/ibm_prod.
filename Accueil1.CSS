@@ -78,8 +78,11 @@ footer {
 
 @media screen and (min-width:479px) and (max-width:800px){
     .Navigation{
-        width: 110%;
+        width: 100%;
         border-radius: 80px;
+    }
+    .menu li{
+        padding: 10px
     }
     .service{
         font-size:0.20em;
