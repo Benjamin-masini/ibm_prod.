@@ -71,3 +71,14 @@ footer {
     top: 80%;
     left: 40%;
 }
+
+/* RESPONSIVE */
+
+@media screen and(max-width: 1499px){
+    .header{
+        width: 90%;
+    }
+    .service{
+        font-size:0.9em;
+    }
+}
