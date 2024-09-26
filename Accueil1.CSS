@@ -31,7 +31,7 @@ body{ font-family: "century gothic", 'Gill Sans', 'Gill Sans MT', Calibri, 'Treb
 .menu{
     display: flex;
     list-style: none;
-    padding: 30;
+    padding: 10;
     margin: 0;
     position:relative;
     text-align: center;
@@ -63,24 +63,6 @@ body{ font-family: "century gothic", 'Gill Sans', 'Gill Sans MT', Calibri, 'Treb
     padding: 5px;
 }
 
-@media screen and (max-width:90%){
-    .button{
-        display: contents;
-    }
-    .Navigation{
-        justify-content: space-between;
-    }
-    .menu{
-        display: flex;
-        flex-direction: column;
-        align-items:stretch;
-    }
-    
-    .menu li{
-        border-top: 1px solid #fff;
-    }
-    
-}
 
 /* TEXTE */
 .bienvenu {
