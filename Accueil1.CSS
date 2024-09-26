@@ -22,34 +22,13 @@ body{ font-family: "century gothic", 'Gill Sans', 'Gill Sans MT', Calibri, 'Treb
 }
 
 
-.menu{
-    display: flex;
-    list-style: none;
-    padding: 10;
-    margin: 0;
-    position:relative;
-    text-align: center;
-}
 .menu a{
     color: #fff;
     text-decoration: none;
-    padding: 60px;
+    padding: 50px;
     text-align: center;
 }
 
-.navbar-menu{
-    display: flex;
-    align-items: center;
-    padding: 10px;
-}
-
-.menu-icon{
-    display: block;
-    width: 22px;
-    height: 2px;
-    background-color: #333;
-    margin-bottom: 40px;
-}
 
 .menu li{
     text-decoration: none;
