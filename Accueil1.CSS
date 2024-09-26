@@ -68,12 +68,15 @@ footer {
     font-family:oblique;
     color: white;
     text-align: center;
+    float: absolute;
+    top: 80%;
+    left: 40%;
     
 }
 
 /* RESPONSIVE */
 
-@media screen and(max-width: 1499px){
+@media screen and (min-width:479px) and (max-width:800px){
     .Navigation{
         width: 300%;
         border-radius: 50px;
