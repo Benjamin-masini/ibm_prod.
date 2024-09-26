@@ -22,7 +22,7 @@ body{ font-family: "century gothic", 'Gill Sans', 'Gill Sans MT', Calibri, 'Treb
 .menu{
     display: flex;
     list-style: none;
-    padding: 30;
+    padding: 20;
     margin: 0;
     position:relative;
     text-align: center;
@@ -67,9 +67,7 @@ footer {
     font-family:oblique;
     color: white;
     text-align: center;
-    float: absolute;
-    top: 80%;
-    left: 40%;
+    
 }
 
 /* RESPONSIVE */
