@@ -76,9 +76,10 @@ footer {
 
 @media screen and(max-width: 1499px){
     .header{
-        width: 90%;
+        width: 100%;
     }
     .service{
-        font-size:0.9em;
+        font-size:0.10em;
     }
+    
 }
