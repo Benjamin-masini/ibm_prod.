@@ -8,6 +8,8 @@ body { font-family: "century gothic", 'Gill Sans', 'Gill Sans MT', Calibri, 'Tre
     background-attachment: fixed , scroll; 
     scroll-behavior: auto;
     box-sizing :border-box;
+    margin: 0;
+    padding: 0;
  
     
 }
