@@ -19,7 +19,9 @@ body { font-family: "century gothic", 'Gill Sans', 'Gill Sans MT', Calibri, 'Tre
 
 .Navigation{
     background-color: #333;
-    
+    width: 1500px;
+    height: 300px;
+    margin: 0 auto;
     
 }
 
